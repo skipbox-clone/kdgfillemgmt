@@ -12,3 +12,10 @@ To Use In KBTC
 3. **lists** folder အောက်တွင် **newOwner.csv** နှင့်ဆုံးသည့် file တွင် အသစ်ထည့်မည့် new Owner users များ ထည့်ပေးရမည် CSV တွင် User ခေါင်းစဉ်ထည့်ပေးရမည်
 4. Run **AddingNewUsers.ps1**
 5. **UpdateUserLists.ps1** ကိုပြန် run ပေးရမည် နောက်ဆုံးထည့်ထားတဲ့ users များရဲ့ lists update ဖြစ်နေရန်အတွက်
+
+
+
+
+
+
+                                                                                                      By oaksoeaung
